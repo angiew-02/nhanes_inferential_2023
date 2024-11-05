@@ -1,1 +1,2 @@
 # nhanes_inferential_2023
+The objective of this assignment is to use NHANES data to perform basic inferential statistics using Python in Google Colab. Explore relationships and differences in health metrics and demographic variables, utilizing the skills learned in class to answer key questions about the dataset. Final analysis should be saved as a Google Colab notebook and uploaded to a GitHub repository.
